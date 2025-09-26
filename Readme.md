@@ -16,4 +16,4 @@ Todo aquello relacionado con la arquitectura sera en contrado en la carpeta
 - [Docs](doc/)
 
 El resto del proyecto en: 
-- [Src](src/main/java/org/)
+- [Src](src/main/java/org/example/tp1algo3)
